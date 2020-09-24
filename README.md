@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rynxiao&theme=radical&show_icons=true" alt="Rynxiao's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynxiao&layout=compact" alt="Top Langs" />
+<a href="https://github.com/Rynxiao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rynxiao&theme=radical&show_icons=true" alt="Rynxiao's github stats" />
+</a>
+<a href="https://github.com/Rynxiao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynxiao&layout=compact" alt="Top Langs" />
+</a>
 
 
