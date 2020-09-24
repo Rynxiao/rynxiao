@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rynxiao&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynxiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rynxiao&theme=radical&show_icons=true" alt="Rynxiao's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynxiao&layout=compact" alt="Top Langs" />
 
 
