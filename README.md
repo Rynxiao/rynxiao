@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Github Status
+
 <a href="https://github.com/Rynxiao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rynxiao&theme=radical&show_icons=true" alt="Rynxiao's github stats" />
 </a>
+
+### Languages
 <a href="https://github.com/Rynxiao" style="margin-left: 20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynxiao&layout=compact" alt="Top Langs" />
 </a>
